@@ -1,0 +1,27 @@
+{
+  "name": "the-tech-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express-session": "^1.17.1",
+    "express-handlebars": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cacevedo2011/the-tech-blog.git"
+  },
+  "author": "Cristian Acevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cacevedo2011/the-tech-blog/issues"
+  },
+  "homepage": "https://github.com/cacevedo2011/the-tech-blog#readme"
+}
